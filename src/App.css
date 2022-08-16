@@ -1,0 +1,58 @@
+html {
+  scroll-behavior: auto;
+}
+.card-container {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  /* justify-content: center; */
+}
+.cardUser{
+width: 300px;
+height: 500px;
+  background-color:rgb(128, 119, 119);
+  border-radius: 30px;
+  text-align: center;
+ 
+
+}
+img{
+  border-radius: 10px;
+}
+
+.menuWord{
+  background-color: rgb(75, 73, 73);
+  width: 100%;
+  height: 150px;
+  list-style:none;
+  border-radius: 10px;
+  justify-content: center;
+  text-align: center;
+  
+}
+body{
+background-color: rgb(53, 52, 52);
+ justify-content: space-evenly;
+ 
+}
+
+ul{
+  list-style:none;
+}
+
+.searchC{justify-content: center;
+text-align: center;}
+
+h1{
+  text-align: center;
+ 
+}
+
+
+.imgR{
+
+   background-image: url(./icon.png);
+   height: 200px;
+   width: 100%;
+}
